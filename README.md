@@ -11,7 +11,7 @@
 
 ## Project Description
 
-Personal Task Manager - a web application by Lavarel designed to help users organize and manage their tasks.Users can add tasks, view their tasks, edit task information, delete tasks, and update the status of tasks.
+Personal Task Manager - a web application by Lavarel designed to help users organize and manage their tasks. Users can add tasks, view their tasks, edit task information, delete tasks, and update the status of tasks.
 
 ## Features
 
