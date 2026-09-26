@@ -8,34 +8,3 @@
 * **Section:** 7
 * **Date:** September 26, 2026
 * **Database Used:** SQLite
-
-## Project Description
-
-Personal Task Manager - a web application by Lavarel designed to help users organize and manage their tasks. Users can add tasks, view their tasks, edit task information, delete tasks, and update the status of tasks.
-
-## Features
-
-* **Add Task** – Create a new task with a task name, description, and due date.
-* **View Tasks** – Display all saved tasks with their details and status.
-* **Edit Task** – Update the task name, description, due date, and status.
-* **Delete Task** – Remove a task from the task list.
-* **Update Status** – Change a task status between Pending and Completed.
-
-## Technologies Used
-
-* Laravel
-* PHP
-* SQLite
-* Blade
-* HTML
-* CSS
-
-## Laravel Structure
-
-The project demonstrates the basic Laravel flow:
-
-**Routes → Controller → Model → Database → Blade Views**
-
-## Project Date
-
-September 26, 2026
