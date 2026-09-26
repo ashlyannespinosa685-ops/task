@@ -6,12 +6,12 @@
 * **Student Name:** Espinosa, Ashly Ann B.
 * **Course & Year:** BSIT 2
 * **Section:** 7
-* **Date:** September 25, 2026
+* **Date:** September 26, 2026
 * **Database Used:** SQLite
 
 ## Project Description
 
-The Personal Task Manager is a Laravel-based web application designed to help users organize and manage their tasks. Users can add tasks, view their tasks, edit task information, delete tasks, and update the status of tasks.
+Personal Task Manager - a web application by Lavarel designed to help users organize and manage their tasks.Users can add tasks, view their tasks, edit task information, delete tasks, and update the status of tasks.
 
 ## Features
 
@@ -38,4 +38,4 @@ The project demonstrates the basic Laravel flow:
 
 ## Project Date
 
-September 25, 2026
+September 26, 2026
